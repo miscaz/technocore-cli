@@ -1,0 +1,6 @@
+/technocore
+/technocore.exe
+*.exe
+*.log
+.env
+.DS_Store
